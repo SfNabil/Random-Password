@@ -1,0 +1,16 @@
+body{
+    background: rgb(33, 33, 33);
+}
+
+#container{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: rgb(218, 255, 235);
+    align-items: center;
+    padding: 10px;
+    margin: 10px auto 10px;
+    border: solid 2px rgb(48, 190, 48);
+    border-radius: 4px;
+}
+
